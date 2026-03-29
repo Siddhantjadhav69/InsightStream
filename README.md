@@ -38,9 +38,7 @@ The system operates in a three-stage pipeline:
 ## ⚙️ Installation & Setup
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/InsightStream.git](https://github.com/yourusername/InsightStream.git)
-   cd InsightStream
+   
 
 2. **Set up a Virtual Environment:**
 
